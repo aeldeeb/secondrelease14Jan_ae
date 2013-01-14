@@ -1,0 +1,5 @@
+  [1m[36mAuthorization Load (0.2ms)[0m  [1mSELECT "authorizations".* FROM "authorizations" WHERE "authorizations"."uid" = '383433138417885' LIMIT 1[0m
+  [1m[36mAuthorization Load (0.2ms)[0m  [1mSELECT "authorizations".* FROM "authorizations" WHERE "authorizations"."uid" = '383433138417885' LIMIT 1[0m
+  [1m[36mAuthorization Load (0.2ms)[0m  [1mSELECT "authorizations".* FROM "authorizations" WHERE "authorizations"."uid" = '383433138417885' LIMIT 1[0m
+  [1m[36mAuthorization Load (0.2ms)[0m  [1mSELECT "authorizations".* FROM "authorizations" WHERE "authorizations"."uid" = '383433138417885' LIMIT 1[0m
+  [1m[36mAuthorization Load (0.1ms)[0m  [1mSELECT "authorizations".* FROM "authorizations" WHERE "authorizations"."uid" = '383433138417885' LIMIT 1[0m
